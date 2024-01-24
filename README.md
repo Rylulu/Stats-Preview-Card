@@ -25,7 +25,7 @@ Mobile
 
 ### Links
 
-- Live Site URL: [Github](https://rylulu.github.io/Results-Summary-Component/)
+- Live Site URL: [Github](https://rylulu.github.io/Stats-Preview-Card/)
 
 ## My process
 
